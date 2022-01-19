@@ -14,7 +14,7 @@ After heating, the internal water molecules will move to the surface of the fila
 ![](https://cdn.hackaday.io/images/9361851641898322634.jpg)
 
 Here is the surface temperature of the dryer box that can help us to understand the temperature inner area of the box.
-![](https://cdn.hackaday.io/images/104181641898330026.jpg)
+![](https://raw.githubusercontent.com/Eryone/filamentDRY/main/doc/images/20111185138.jpg)
 
 #### What makes it special
 
