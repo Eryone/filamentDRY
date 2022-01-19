@@ -26,26 +26,6 @@ With dryer box you can feed the filament to your printer directly from the dryer
 3. Heating and Desiccants,the heating not only dry the filament but also baking the reusable silica gel desiccants in the bottom of the box , the desiccants will keep the box always in low humidity after heating for a long time.
 
 
-Temperature 
-
-Silent blower:let the hot air uneven
-
-The desiccant will remove the released moisture. 
-Reusable desiccant
-High quality power supply
-
-
-
-Heating without filament
-The heating plate reach to 100 degree within 5 minutes
-The screen displayed 56 degree after 30 minutes
-
-
-Heating with 1Kg full filament
-Reach 100 degree about 40 minutes
-The screen displayed 54 degree after 2 hours
-
-Heating aluminum
 
 ### Without filament
 Heating Level |  Heating plate |	Temperature Displayed | RH
