@@ -26,18 +26,18 @@ With dryer box you can feed the filament to your printer directly from the dryer
 3. Heating and Desiccants,the heating not only dry the filament but also baking the reusable silica gel desiccants in the bottom of the box , the desiccants will keep the box always in low humidity after heating for a long time.
 
 
-1rd Level |  Heating plate 70C |	Temperature Displayed >40C | RH <20%
+Level 1 |  Heating plate 70C |	Temperature Displayed >40C | RH <20%
 --- | --- |--- |--- 
 Without filament |   2 minutes |	 minutes |	  minutes
 With 1Kg full filament | 2 minutes |	 30 minutes |	 minutes
  
-2rd Level |  Heating plate 80C |	Temperature Displayed >45C | RH <20%
+Level 2 |  Heating plate 80C |	Temperature Displayed >45C | RH <20%
 --- | --- |--- |--- 
 Without filament |   minutes |	 minutes |	  minutes
 With 1Kg full filament | 30 minutes |	  minutes |	 minutes
 
  
-3rd Level |  Heating plate 90C |	Temperature Displayed >50C | RH <20%
+Level 3 |  Heating plate 90C |	Temperature Displayed >50C | RH <20%
 --- | --- |--- |--- 
 Without filament | 5 minutes |	30 minutes |	30 minutes
 With 1Kg full filament | 40 minutes |	120 minutes |	120 minutes
