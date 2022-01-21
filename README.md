@@ -26,21 +26,21 @@ With dryer box you can feed the filament to your printer directly from the dryer
 3. Heating and Desiccants,the heating not only dry the filament but also baking the reusable silica gel desiccants in the bottom of the box , the desiccants will keep the box always in low humidity after heating for a long time.
 
 
-Level 1 |  Heating plate 70C |	Temperature Displayed >40C | RH <20%
+Level 1 |  Heating plate 70C |	Temperature Displayed >40C 
 --- | --- |--- |--- 
-Without filament |   2 minutes |	 minutes |	  minutes
-With 1Kg full filament | 2 minutes |	 30 minutes |	 minutes
+Without filament |   2 minutes |	 minutes 
+With 1Kg full filament | 2 minutes |	 30 minutes 
  
-Level 2 |  Heating plate 80C |	Temperature Displayed >45C | RH <20%
+Level 2 |  Heating plate 80C |	Temperature Displayed >45C 
 --- | --- |--- |--- 
-Without filament |   minutes |	 minutes |	  minutes
-With 1Kg full filament | 30 minutes |	  minutes |	 minutes
+Without filament |   minutes |	 minutes 
+With 1Kg full filament | 30 minutes |	  minutes 
 
  
-Level 3 |  Heating plate 90C |	Temperature Displayed >50C | RH <20%
+Level 3 |  Heating plate 90C |	Temperature Displayed >50C 
 --- | --- |--- |--- 
-Without filament | 5 minutes |	30 minutes |	30 minutes
-With 1Kg full filament | 40 minutes |	120 minutes |	120 minutes
+Without filament | 5 minutes |	30 minutes 
+With 1Kg full filament | 40 minutes |	120 minutes 
 
 The Hygrometer/Thermometer and the heating are 2 different independent systems,
 The thermometer on the top side will display the actual point temperature and humidity that is  far from the heating bed. So the temperature in the other place in the box probably higher,especially at the bottom near the heating bed that will higher than 60 degree,so do not dry the PLA with 3rd level.
