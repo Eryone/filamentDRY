@@ -27,18 +27,18 @@ With dryer box you can feed the filament to your printer directly from the dryer
 
 
 Level 1 |  Heating plate 70C |	Temperature Displayed >40C 
---- | --- |--- |--- 
+--- | --- |---
 Without filament |   2 minutes |	 minutes 
 With 1Kg full filament | 2 minutes |	 30 minutes 
  
 Level 2 |  Heating plate 80C |	Temperature Displayed >45C 
---- | --- |--- |--- 
+--- | --- |--- 
 Without filament |   minutes |	 minutes 
 With 1Kg full filament | 30 minutes |	  minutes 
 
  
 Level 3 |  Heating plate 90C |	Temperature Displayed >50C 
---- | --- |--- |--- 
+--- | --- |--- 
 Without filament | 5 minutes |	30 minutes 
 With 1Kg full filament | 40 minutes |	120 minutes 
 
